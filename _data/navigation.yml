@@ -1,0 +1,25 @@
+- title: Home
+  url: "/"
+  side: left
+
+- title: Black Lives Matter
+  url: "/black-lives-matter/"
+  side: left
+
+- title: Trump and Resist
+  url: "/trump/"
+  side: left
+  
+- title: Misogyny
+  url: "/misogyny/"
+  side: left
+    
+
+
+- title: "Search"
+  url: "/search/"
+  side: right
+
+- title: "About"
+  url: "/about/"
+  side: right
